@@ -1,0 +1,30 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:gira3d/gira3d-occupancy-modeling-docs.git
+[submodule "dry/src/mex_class_wrapper"]
+	path = dry/src/mex_class_wrapper
+	url = git@github.com:wtabib/mex_class_wrapper.git
+[submodule "dry/src/pybind11_colcon"]
+	path = dry/src/pybind11_colcon
+	url = git@github.com:gira3d/pybind11_colcon.git
+[submodule "wet/src/gmm"]
+	path = wet/src/gmm
+	url = git@github.com:gira3d/gmm.git
+[submodule "wet/src/gmm_occupancy_modeling_example"]
+	path = wet/src/gmm_occupancy_modeling_example
+	url = git@github.com:gira3d/gmm_occupancy_modeling_example.git
+[submodule "wet/src/map_utils"]
+	path = wet/src/map_utils
+	url = git@github.com:gira3d/map_utils.git
+[submodule "wet/src/map_utils_matlab"]
+	path = wet/src/map_utils_matlab
+	url = git@github.com:gira3d/map_utils_matlab.git
+[submodule "wet/src/map_utils_py"]
+	path = wet/src/map_utils_py
+	url = git@github.com:gira3d/map_utils_py.git
+[submodule "wet/src/mex_conversion_utils"]
+	path = wet/src/mex_conversion_utils
+	url = git@github.com:gira3d/mex_conversion_utils.git
+[submodule "wet/src/yaml_utils"]
+	path = wet/src/yaml_utils
+	url = git@github.com:gira3d/yaml_utils.git
