@@ -7,8 +7,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-repo_name: 'rislab/gira3d-occupancy-modeling'
-repo_url: 'https://github.com/rislab/gira3d-occupancy-modeling'
+repo_name: 'gira3d/gira3d-occupancy-modeling'
+repo_url: 'https://github.com/gira3d/gira3d-occupancy-modeling'
 
 nav:
   - Home: 'index.md'

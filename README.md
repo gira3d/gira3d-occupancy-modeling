@@ -6,7 +6,7 @@ This repository is a `colcon` workspace. You can learn more about `colcon` [here
 ## Quick Start
 ### Installation
 ```
-git clone git@github.com:rislab/gira3d-occupancy-modeling.git --recursive
+git clone git@github.com:gira3d/gira3d-occupancy-modeling.git --recursive
 cd gira3d-occupancy-modeling
 python3.8 -m venv .venv
 source .venv/bin/activate
