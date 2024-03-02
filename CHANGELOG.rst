@@ -2,6 +2,12 @@
 Changelog for package gira3d-occupancy-modeling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2024-03-02)
+------------------
+* updates licenses
+* update docs
+* Contributors: Kshitij Goel, Wennie Tabib
+
 0.0.3 (2023-06-20)
 ------------------
 * Add licenses throughout codebase and tag
